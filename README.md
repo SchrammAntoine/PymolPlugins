@@ -6,8 +6,8 @@ A collection of lightweight PyMOL plugins for structural biology workflows, with
 
 | Plugin       | Description                                                                                                                        |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **findseq**  | Search protein sequences in PyMOL objects using Python regular expressions and create selections for each match.                   |
 | **afgroups** | Automatically organize AlphaFold models belonging to the same prediction into PyMOL groups.                                        |
+| **findseq**  | Search protein sequences in PyMOL objects using Python regular expressions and create selections for each match.                   |
 | **malign**   | Perform structural alignment of multiple mobile objects onto a common reference object.                                            |
 
 ---
